@@ -1,2 +1,2 @@
 1.flour,2.sugar
-3.choco chips.
+3.choco .
